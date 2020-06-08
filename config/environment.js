@@ -4,7 +4,7 @@ module.exports = function(environment) {
   let ENV = {
     modulePrefix: 'ember-quickstart',
     environment,
-    rootURL: '/',
+    rootURL: '/other/ember-quickstart/dist',
     locationType: 'auto',
     EmberENV: {
       FEATURES: {
